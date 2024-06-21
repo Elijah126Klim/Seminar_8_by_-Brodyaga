@@ -1,0 +1,8 @@
+Ivanov, Ivan, 	111, description of Ivanov
+
+Petrov, Petr, 	222 , description of Petrov
+
+Rembo , John, 333 , description of Rembo
+
+Smirnov, Vasya, 777, master of Python
+
